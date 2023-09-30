@@ -1,2 +1,2 @@
 # Index
-Web Intro & Env Config (Estrcuctura básica)
+Web Intro & Env Config (Estructura básica)
